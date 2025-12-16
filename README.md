@@ -33,6 +33,9 @@ Built with React, Firebase, and multiple APIs not covered in class.
 
 
 
+# Flight Delay Analytics Dashboard
+
+This project explores domestic flight delay and cancellation data from 2009 to 2018, aiming to uncover patterns and trends within the data, specifically what causes these delays/cancellations and how impactful each type of delay/cancellation was to airlines. To dive further into our topic of interest, we developed two Shiny apps and a total of eight variant sets of visualizations highlighting seasonality, causes of delays, and the relationship between airline reviews and performance. Throughout this project, we used datasets from Kaggle (Airline Delays, Airline Passenger Satisfaction), and divided our focus into three main questions for discussion.
 
 
 
